@@ -1,0 +1,13 @@
+{
+  "name": "nodenpm",
+  "version": "1.0.0",
+  "description": "keren",
+  "main": "kam.js",
+  "scripts": {
+    "start": "node kam",
+    "buka": "dir",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harry",
+  "license": "ISC"
+}
